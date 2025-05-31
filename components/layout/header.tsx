@@ -10,7 +10,7 @@ import { cn } from '@/lib/utils'
 
 const routes = [
   {
-    name: 'Dashboard',
+    name: 'Home',
     path: '/',
   },
   {
